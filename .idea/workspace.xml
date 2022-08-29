@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aeb057be-63b2-4eb9-8e8e-bf47e01b4954" name="Default Changelist" comment="Copy the underlying code with TDH\go-watchgod">
+      <change afterPath="$PROJECT_DIR$/.idea/go-Inspection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Users\Alex.Hu\go\go1.15.15" />
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="main" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="AlexHuyc" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="go-Inspection" />
+  </component>
+  <component name="ProjectId" id="2E19LIhjREBnZdLKBpqiPylhqj8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GO\go-Inspection" />
+    </key>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="`1`" />
+    <MESSAGE value="Copy the underlying code with TDH\go-watchgod" />
+    <option name="LAST_COMMIT_MESSAGE" value="Copy the underlying code with TDH\go-watchgod" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Deployment" timestamp="1661753005466">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Deployment/0.0.1280.680@0.0.1280.680" timestamp="1661753005466" />
+    <state x="233" y="0" key="#Go_Modules_(vgo)" timestamp="1661754488178">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Go_Modules_(vgo)/0.0.1280.680@0.0.1280.680" timestamp="1661754488178" />
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1661754461311">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1661754461311" />
+    <state x="453" y="237" key="Github.CreateGistDialog" timestamp="1661752239321">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="453" y="237" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1661752239321" />
+    <state x="409" y="207" key="Github.CreatePullRequestDialog" timestamp="1661752522985">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="409" y="207" key="Github.CreatePullRequestDialog/0.0.1280.680@0.0.1280.680" timestamp="1661752522985" />
+    <state x="485" y="51" key="RollbackChangesDialog" timestamp="1661753177426">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="485" y="51" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1661753177426" />
+    <state x="199" y="88" key="VCS.ChangeListViewerDialog" timestamp="1661752953406">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="199" y="88" key="VCS.ChangeListViewerDialog/0.0.1280.680@0.0.1280.680" timestamp="1661752953406" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1661753342792">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1661753342792" />
+    <state x="328" y="68" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1661752519577">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="328" y="68" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1280.680@0.0.1280.680" timestamp="1661752519577" />
+    <state x="430" y="132" key="git4idea.merge.GitMergeDialog" timestamp="1661753265581">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="430" y="132" key="git4idea.merge.GitMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1661753265581" />
+    <state x="441" y="205" key="git4idea.rebase.GitRebaseDialog" timestamp="1661752961678">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="441" y="205" key="git4idea.rebase.GitRebaseDialog/0.0.1280.680@0.0.1280.680" timestamp="1661752961678" />
+  </component>
+</project>
